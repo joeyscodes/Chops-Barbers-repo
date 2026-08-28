@@ -1,2 +1,0 @@
-# Chops-Barbers-repo
-A high-converting, multi-page website built to simulate real-world business use. Features modern design, strong CTAs, and a complete structure optimized for client website and professional deployment.
